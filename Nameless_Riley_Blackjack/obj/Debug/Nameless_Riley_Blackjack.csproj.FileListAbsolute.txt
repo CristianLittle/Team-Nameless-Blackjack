@@ -1,0 +1,10 @@
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\bin\Debug\Nameless_Riley_Blackjack.exe.config
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\bin\Debug\Nameless_Riley_Blackjack.exe
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\bin\Debug\Nameless_Riley_Blackjack.pdb
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\obj\Debug\Nameless_Riley_Blackjack.csproj.AssemblyReference.cache
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\obj\Debug\Nameless_Riley_Blackjack.Form1.resources
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\obj\Debug\Nameless_Riley_Blackjack.Properties.Resources.resources
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\obj\Debug\Nameless_Riley_Blackjack.csproj.GenerateResource.cache
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\obj\Debug\Nameless_Riley_Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\obj\Debug\Nameless_Riley_Blackjack.exe
+C:\Users\blick\source\repos\Nameless_Riley_Blackjack\Nameless_Riley_Blackjack\obj\Debug\Nameless_Riley_Blackjack.pdb
